@@ -7,6 +7,12 @@
   },
   {
     "remote":      "github",
+    "repository":  "LineageOS/android_device_qcom_sepolicy-legacy",
+    "target_path": "device/qcom/sepolicy-legacy",
+    "branch":      "lineage-16.0"
+  },
+  {
+    "remote":      "github",
     "repository":  "LineageOS/android_hardware_samsung",
     "target_path": "hardware/samsung",
     "branch":      "lineage-18.1"
